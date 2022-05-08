@@ -1,0 +1,21 @@
+.email_list{   
+    width: 100%;
+    background-color: white;
+    margin: 20px;
+        
+}
+
+.email_list_header{
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.top_icons{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;    
+}

@@ -1,0 +1,21 @@
+
+.sidebar{
+    margin-top: 20px;
+    margin-left: 20px;    
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+   
+}
+.sidebar_compose{
+    padding: 10px 10px !important;    
+    text-transform: capitalize;
+    background-color: rgb(31, 187, 140) !important;
+    margin-top: 20px !important;
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    align-items: center !important;
+    
+}
+
+
